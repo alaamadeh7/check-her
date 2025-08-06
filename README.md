@@ -1,35 +1,54 @@
-# 📶 Signal Processing Project
+# 📶 Signal Project
 
-Welcome to the **Signal-project** – a practical and educational project designed to explore the fundamentals and applications of **Digital Signal Processing (DSP)** using Python.
+This is a **Signal Processing Project** that explores core concepts such as signal generation, transformation, and analysis. It’s designed to help students understand how real-world signals can be modeled, visualized, and manipulated using tools like Python or MATLAB.
 
 ---
 
-## 📘 Overview
+## 🔍 Topics Covered
 
-This project demonstrates key signal processing techniques such as:
-
-- Generating and visualizing signals
-- Filtering (low-pass, high-pass)
+- Signal types (continuous, discrete)
+- Sine and cosine wave generation
+- Sampling and aliasing
 - Fourier Transform (FFT)
-- Convolution
-- Sampling and reconstruction
-
-It's perfect for students, researchers, or anyone interested in how signals are processed and analyzed in real-world systems.
+- Filtering (Low-pass, High-pass)
+- Noise addition and removal
 
 ---
 
-## 📁 Project Structure
+## 🛠️ Technologies Used
 
+- **Language**: Python / MATLAB
+- **Libraries (Python)**:  
+  - NumPy  
+  - Matplotlib  
+  - SciPy
 
 ---
 
-## 🚀 Getting Started
+## ▶️ How to Run (Python version)
 
-### 1. Clone the Repository
+### 1. Clone the repo
 
 ```bash
 git clone https://github.com/your-username/Signal-project.git
 cd Signal-project
 pip install -r requirements.txt
 python main.py
-python signals/sine_wave.py
+Signal-project/
+├── main.py               # Main script for processing
+├── signals/              # (Optional) Stored/generated signals
+├── plots/                # Output signal visualizations
+├── report.pdf            # (Optional) Project explanation
+└── README.md             # Project documentation
+
+---
+
+### A quick check:
+
+Can you tell me:
+
+1. Is it in Python, MATLAB, or something else?
+2. What is the **goal** of the project? (e.g. Fourier analysis, signal filtering, etc.)
+3. Do you have graphs or outputs to include?
+
+Once I know that, I can make the README perfect for your version.
