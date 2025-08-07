@@ -3,15 +3,15 @@
 
 CheckHer is a mobile application designed to raise awareness among women about the early detection of breast cancer, helping prevent disability and complications like mastectomy. It uses computer vision and AI-driven notifications to support users in staying informed, checking regularly, and accessing educational content.
 
-## 📱 Features
+##  Features
 
-- 🧠 **Awareness Hub**: Learn about breast cancer, early symptoms, prevention methods, and risk factors.
-- 📸 **AI Camera Scan** *(Planned)*: Capture and analyze signs through a safe and informative guidance tool.
-- 🔔 **Custom Notifications**: Receive regular reminders to check yourself and follow preventive routines.
-- 📊 **Progress Tracker** *(Coming soon)*: Log self-checks and track your awareness journey.
-- 🕋 **Spiritual Integration**: Daily Quran verse, prayers, and motivation to support mental and spiritual well-being.
+-  **Awareness Hub**: Learn about breast cancer, early symptoms, prevention methods, and risk factors.
+-  **AI Camera Scan** *(Planned)*: Capture and analyze signs through a safe and informative guidance tool.
+- **Custom Notifications**: Receive regular reminders to check yourself and follow preventive routines.
+- **Progress Tracker** *(Coming soon)*: Log self-checks and track your awareness journey.
+-  **Spiritual Integration**: Daily Quran verse, prayers, and motivation to support mental and spiritual well-being.
 
-## 🌐 Live Demo
+##  Live Demo
 [CheckHer Website](https://checkher.netlify.app/)
 
 ## 🛠 Tech Stack
@@ -22,21 +22,20 @@ CheckHer is a mobile application designed to raise awareness among women about t
 - **Framer Motion** – for smooth animations
 - **ShadCN UI** – for modern and accessible components
 
-## 🧠 Inspiration
+##  Inspiration
 
 This project was developed by **A'laa Madeh** and her team during the NAID 2025 Summer Camp under the Computer Vision track. It aims to combine health tech and AI to protect lives and enhance awareness in communities.
 
-## 💡 Future Plans
+##  Future Plans
 
 - AI-powered camera detection
 - Multilingual support (Arabic & English)
 - Offline access for low-connectivity users
 - Community forum and support network
 
-## 📸 Screenshots
-*(Add screenshots here if available)*
 
-## 🤝 Contributing
+
+##  Contributing
 
 Want to help expand CheckHer?  
 We welcome ideas, feature requests, and code contributions.
