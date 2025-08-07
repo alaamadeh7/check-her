@@ -1,54 +1,56 @@
-# 📶 Signal Project
+# CheckHer 💗  
+**Empowering Women Through Breast Cancer Awareness**
 
-This is a **Signal Processing Project** that explores core concepts such as signal generation, transformation, and analysis. It’s designed to help students understand how real-world signals can be modeled, visualized, and manipulated using tools like Python or MATLAB.
+CheckHer is a mobile application designed to raise awareness among women about the early detection of breast cancer, helping prevent disability and complications like mastectomy. It uses computer vision and AI-driven notifications to support users in staying informed, checking regularly, and accessing educational content.
+
+## 📱 Features
+
+- 🧠 **Awareness Hub**: Learn about breast cancer, early symptoms, prevention methods, and risk factors.
+- 📸 **AI Camera Scan** *(Planned)*: Capture and analyze signs through a safe and informative guidance tool.
+- 🔔 **Custom Notifications**: Receive regular reminders to check yourself and follow preventive routines.
+- 📊 **Progress Tracker** *(Coming soon)*: Log self-checks and track your awareness journey.
+- 🕋 **Spiritual Integration**: Daily Quran verse, prayers, and motivation to support mental and spiritual well-being.
+
+## 🌐 Live Demo
+[CheckHer Website](https://checkher.netlify.app/)
+
+## 🛠 Tech Stack
+
+- **React Native + Expo Router** – for cross-platform mobile development
+- **Tailwind CSS** – for sleek, responsive UI
+- **Lucide Icons** – for elegant iconography
+- **Framer Motion** – for smooth animations
+- **ShadCN UI** – for modern and accessible components
+
+## 🧠 Inspiration
+
+This project was developed by **A'laa Madeh** and her team during the NAID 2025 Summer Camp under the Computer Vision track. It aims to combine health tech and AI to protect lives and enhance awareness in communities.
+
+## 💡 Future Plans
+
+- AI-powered camera detection
+- Multilingual support (Arabic & English)
+- Offline access for low-connectivity users
+- Community forum and support network
+
+## 📸 Screenshots
+*(Add screenshots here if available)*
+
+## 🤝 Contributing
+
+Want to help expand CheckHer?  
+We welcome ideas, feature requests, and code contributions.
+
+1. Fork the repo
+2. Create a new branch
+3. Make changes
+4. Submit a Pull Request ✅
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🔍 Topics Covered
+**Built with 💖 for awareness, hope, and change.**
 
-- Signal types (continuous, discrete)
-- Sine and cosine wave generation
-- Sampling and aliasing
-- Fourier Transform (FFT)
-- Filtering (Low-pass, High-pass)
-- Noise addition and removal
-
----
-
-## 🛠️ Technologies Used
-
-- **Language**: Python / MATLAB
-- **Libraries (Python)**:  
-  - NumPy  
-  - Matplotlib  
-  - SciPy
-
----
-
-## ▶️ How to Run (Python version)
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/Signal-project.git
-cd Signal-project
-pip install -r requirements.txt
-python main.py
-Signal-project/
-├── main.py               # Main script for processing
-├── signals/              # (Optional) Stored/generated signals
-├── plots/                # Output signal visualizations
-├── report.pdf            # (Optional) Project explanation
-└── README.md             # Project documentation
-
----
-
-### A quick check:
-
-Can you tell me:
-
-1. Is it in Python, MATLAB, or something else?
-2. What is the **goal** of the project? (e.g. Fourier analysis, signal filtering, etc.)
-3. Do you have graphs or outputs to include?
-
-Once I know that, I can make the README perfect for your version.
