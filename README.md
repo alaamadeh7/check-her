@@ -52,4 +52,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Built with 💖 for awareness, hope, and change.**
+🧑‍💻 Developed By
+**A'laa Madeh** – 3rd-year AI student @ Egyptian Russian University  
+NAID Summer Camp 2025 (Computer Vision Track)
 
